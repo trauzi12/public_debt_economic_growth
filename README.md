@@ -1,1 +1,3 @@
 # public_debt_economic_growth
+
+The purpose of this paper is to determine the causal relationship between public debt and economic growth, and it contributes to the literature by applying Toda and Yamamoto (1995) VAR method to 29 LAC countries from 1982 to 2015 while controlling for capital, import, and government revenue data. Data is collected from the World Development Indicators (WDI) and International Monetary Fund (IMF). Public debt and economic growth have a bidirectional relationship for 12 countries. Debt causes growth for 14 countries while growth causes debt in 20 countries. Increasing debt causes growth to decrease for seven countries, and it increases growth for three countries. An increase in economic growth decreases public debt for 14 countries.
